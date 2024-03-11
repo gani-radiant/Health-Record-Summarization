@@ -28,7 +28,7 @@
 
   <li>Clone this repository and navigate to the cloned repository:</li>
 
-  <pre><code>git clone https://github.com/</code></pre>
+  <pre><code>git clone https://github.com/gani-radiant/Health-Record-Summarization.git/</code></pre>
 
   <pre><code>cd Langchain_pdf_explorer </code></pre>
 
@@ -102,10 +102,7 @@
 <h2>Code execution snippets</h2>
 
 <div style="display: flex;">
-  <p>Provided a 35-page ML theory tutorial PDF and tested over it.</p>
     <img src="https://github.com/PavanSETTEM-003/Langchain_pdf_explorer/assets/88257205/d012d221-4778-4b6e-a908-9e730efff704" alt="Screenshot 1" style="width: 50%;">
-  <p>Tested the TCS Transcript 4QFY23 PDF, which consisted of 24 pages.
-</p>
     <img src="https://github.com/PavanSETTEM-003/Langchain_pdf_explorer/assets/88257205/fdd56388-54d0-47b5-a824-7c34ec9da352" alt="Screenshot 2" style="width: 50%;">
 </div>
 
