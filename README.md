@@ -109,7 +109,7 @@
 <h3>Sample working video</h3>
 
 
-https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/ImpacTech-147(Video%20Reel).mp4
+https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/ImpacTech-147(Video%20Reel)
 
 
 
