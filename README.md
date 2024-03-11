@@ -1,7 +1,7 @@
-<h1>LLM-Powered PDF Chatbot: Conversational Question Answering for Local Documents</h1>
+<h1>AI-Powered Medical Records Summarization</h1>
 
 <p>
-  Welcome to LangChain-HuggingFace PDF Explorer, an innovative tool that empowers you to gain valuable insights from your PDF documents. Harnessing the power of Language Models (LLMs), this code enables you to extract meaningful information by simply uploading your PDF and asking questions.
+  Welcome to This system employs advanced natural language processing (NLP) and machine learning techniques to analyze and condense medical documents, providing healthcare providers with concise and informative summaries. 
 </p>
 <p>It is recommended to run the project in a virtual environment (venv) to avoid library clashes. This isolates Python packages for different projects, ensuring different versions of the same package can be used without conflicts. Running the project in a venv also prevents any project-specific packages from polluting your system Python installation.</p>
 
@@ -28,7 +28,7 @@
 
   <li>Clone this repository and navigate to the cloned repository:</li>
 
-  <pre><code>git clone https://github.com/PavanSETTEM-003/Langchain_pdf_explorer.git</code></pre>
+  <pre><code>git clone https://github.com/</code></pre>
 
   <pre><code>cd Langchain_pdf_explorer </code></pre>
 
@@ -48,7 +48,7 @@
 
   <p>This will start a local server, and a web page will open in your default browser.</p>
 
-  <li>Use the web page interface to upload a PDF file and ask questions about its content.</li>
+  <li>Use the web page interface to upload a PDF Health Record file and ask query about Patient.</li>
 </ol>
 
 <p><strong>Note:</strong> Ensure you have an active internet connection as the application uses Hugging Face's API for language model inference.</p>
@@ -120,7 +120,7 @@ https://github.com/PavanSETTEM-003/Langchain_pdf_explorer/assets/88257205/860920
 
 <hr>
 <h2>Conclusion</h2>
-The code offers the capability to efficiently extract insights from local documents. It can be applied to various use cases, such as financial report analysis, educational PDF question assistance for students, and rapid knowledge extraction from research papers. Its versatility enables swift and targeted information retrieval from diverse document sources, empowering users to gain valuable insights effectively.It can be adapted and customized to suit different industries, domains, and specific requirements.
+In conclusion, the concept of "AI-Powered Medical Records Summarization" represents a significant leap forward in healthcare technology. The development and implementation of such a system offer numerous benefits for both healthcare providers and patients. 
 
 <br>
 <br>
