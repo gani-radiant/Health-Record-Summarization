@@ -109,7 +109,7 @@
 <h3>Sample working video</h3>
 
 
-https://github.com/PavanSETTEM-003/Langchain_pdf_explorer/assets/88257205/86092028-51ce-4aa4-9f3e-75d72fb32ba5
+https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/ImpacTech-147(Video%20Reel).mp4
 
 
 
