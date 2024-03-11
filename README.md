@@ -102,8 +102,8 @@
 <h2>Code execution snippets</h2>
 
 <div style="display: flex;">
-    <img src="https://github.com/PavanSETTEM-003/Langchain_pdf_explorer/assets/88257205/d012d221-4778-4b6e-a908-9e730efff704" alt="Screenshot 1" style="width: 50%;">
-    <img src="https://github.com/PavanSETTEM-003/Langchain_pdf_explorer/assets/88257205/fdd56388-54d0-47b5-a824-7c34ec9da352" alt="Screenshot 2" style="width: 50%;">
+    <img src="https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/1.jpg" alt="Screenshot 1" style="width: 50%;">
+    <img src="https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/2.jpg" alt="Screenshot 2" style="width: 50%;">
 </div>
 
 <h3>Sample working video</h3>
