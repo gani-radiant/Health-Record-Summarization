@@ -44,7 +44,7 @@
 
   <li>Start the application:</li>
 
-  <pre><code>streamlit run app.py</code></pre>
+  <pre><code>streamlit run 1_App.py</code></pre>
 
   <p>This will start a local server, and a web page will open in your default browser.</p>
 
@@ -103,15 +103,15 @@
 
 <div style="display: flex;">
     <img src="https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/1.jpg" alt="Screenshot 1" style="width: 100%;">
-    <img src="https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/2.jpg" alt="Screenshot 2" style="width: 50%;">
-    <img src="https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/3.jpg" alt="Screenshot 3" style="width: 50%;">
-    <img src="https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/4.jpg" alt="Screenshot 4" style="width: 50%;">
-    <img src="https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/5.jpg" alt="Screenshot 5" style="width: 50%;">
-    <img src="https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/6.jpg" alt="Screenshot 6" style="width: 50%;">
-    <img src="https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/7.jpg" alt="Screenshot 7" style="width: 50%;">
-    <img src="https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/8.jpg" alt="Screenshot 8" style="width: 50%;">
-    <img src="https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/9.jpg" alt="Screenshot 9" style="width: 50%;">
-    <img src="https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/10.jpg" alt="Screenshot 10" style="width: 50%;">
+    <img src="https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/2.jpg" alt="Screenshot 2" style="width: 100%;">
+    <img src="https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/3.jpg" alt="Screenshot 3" style="width: 100%;">
+    <img src="https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/4.jpg" alt="Screenshot 4" style="width: 100%;">
+    <img src="https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/5.jpg" alt="Screenshot 5" style="width: 100%;">
+    <img src="https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/6.jpg" alt="Screenshot 6" style="width: 100%;">
+    <img src="https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/7.jpg" alt="Screenshot 7" style="width: 100%;">
+    <img src="https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/8.jpg" alt="Screenshot 8" style="width: 100%;">
+    <img src="https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/9.jpg" alt="Screenshot 9" style="width: 100%;">
+    <img src="https://github.com/gani-radiant/Health-Record-Summarization/blob/main/assets/10.jpg" alt="Screenshot 10" style="width: 100%;">
   
 </div>
 
